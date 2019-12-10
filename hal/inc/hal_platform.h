@@ -271,4 +271,8 @@
 #define HAL_PLATFORM_SETUP_BUTTON_UX (0)
 #endif /* HAL_PLATFORM_SETUP_BUTTON_UX */
 
+#ifndef HAL_PLATFORM_SLEEP_2_0
+#define HAL_PLATFORM_SLEEP_2_0 (0)
+#endif
+
 #endif /* HAL_PLATFORM_H */

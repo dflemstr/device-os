@@ -4,6 +4,7 @@
 #include "platforms.h"
 
 #define HAL_PLATFORM_USART2 (1)
+#define HAL_PLATFORM_SLEEP_2_0 (1)
 
 #if PLATFORM_ID == PLATFORM_XENON
 
